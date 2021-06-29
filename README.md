@@ -42,7 +42,7 @@ Experienced fullstack software engineer from Brazil, currently living and workin
 <br>
 <br>
 
-### Integration and Deployment
+### Messaging and Deployment
 <p align="left">
   <img align="left" alt="zeromq" src="https://img.shields.io/badge/ZeroMQ-f00?logo=zeromq&logoColor=white&style=for-the-badge" />
   <img align="left" alt="docker" src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge" />

@@ -58,6 +58,6 @@ A little about me:
 <br>
 
 
-### 📈 Stats 
+<!-- ### 📈 Stats  -->
  
-[![Lorran github stats](https://github-readme-stats.vercel.app/api?username=lorranpego&theme=algolia&show_icons=true&count_private=true)](https://github.com/lorranpego/github-readme-stats)
+<!-- [![Lorran github stats](https://github-readme-stats.vercel.app/api?username=lorranpego&theme=algolia&show_icons=true&count_private=true)](https://github.com/lorranpego/github-readme-stats) -->

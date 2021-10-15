@@ -2,9 +2,9 @@
 
 A little about me:
 
-- 🇧🇷  From **Brazil**.
-- 🇰🇷  Living in **Korea**
-- 🔭  Full-stack Software Engineer
+- 🇧🇷 &nbsp; From **Brazil**.
+- 🇰🇷 &nbsp; Living in **Korea**
+- 🔭 &nbsp; Full-stack Software Engineer
 
 <br>
 

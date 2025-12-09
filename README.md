@@ -2,8 +2,6 @@
 
 A little about me:
 
-- 🇧🇷 &nbsp; From **Brazil**.
-- 🇰🇷 &nbsp; Living in **Korea**
 - 🔭 &nbsp; Full-stack Software Engineer
 
 </br>
